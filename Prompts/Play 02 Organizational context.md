@@ -8,6 +8,7 @@ Understand the structure of the organization, their product space and their tech
 Understand what the business is, how they are structured, who their customers are, what value they deliver and how they deliver that value.
 
 ## Use this play to:
+
 Identify your stakeholders
 Understand the space you’re operating in within the organization 
 Provide a quick assessment of organizational complexity
@@ -22,6 +23,7 @@ It’s critical you have an understanding of the business, their customers and h
 1 - 2 days
 
 ## Who participates
+
 Project team
 
 ## How often

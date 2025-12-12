@@ -8,21 +8,26 @@ Knowing who your stakeholders are and how to communicate with them could be the 
 Stakeholder mapping is essential for the success of any team or project and allows teams to prioritize and target time spent building relationships and to identify risks in their stakeholder landscape.
 
 ## Use this play to:
+
 Identify stakeholders
 Define communication methods 
 and frequency of communications with stakeholders
 Better manage stakeholders expectations
 
 ## Expert tip
+
 Stakeholder mapping may not appear be a high priority for Architects, but getting this right by knowing who their stakeholders are,  who needs to be influenced, and how to communicate with them will help put architects on the map within the organization and help them to deliver their work successfully.
 
 ## Time required
+
 90 minutes
 
 ## Who participates
+
 Architects
 
 ## How often
+
 Every 6 months
 
 ## Fundamentals

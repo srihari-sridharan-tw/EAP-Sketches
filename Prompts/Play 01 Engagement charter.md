@@ -10,21 +10,26 @@ This play is critical for shifting the focus from transactional outputs to strat
 The charter aligns mindsets and helps mitigate the risk that significant organizational or business context changes have occurred between the SOW being signed and the TW team starting.
 
 ## Use this play to:
+
 Focus on outcomes
 Align mindsets
 Address organisational change
 Amplify success by clearly defining the intended outcomes and shared vision.
 
 ## Expert tip
+
 The power of this 1-hour session comes from the core decision-makers. Insist on a small, focused group. Resist the urge to turn this into a large group meeting. A small group ensures genuine, high-speed alignment on outcomes; a large group often results in discussions focused on tactical outputs.
  
 ## Time required
+
 1 hour
 
 ## Who participates
+
 Engagement Lead, Client Sponsor (optionally 1 additional key stakeholder; TW Principal or BA)
 
 ## How often
+
 At the start of each engagement
 
 ## Running the play
@@ -118,12 +123,14 @@ Summarize the key outcomes captured. Confirm the hypothesis of value. Agree that
 Give the client an opportunity to share anything that’s on their mind, or ask further questions. 
 
 ### After the workshop
+
 Synthesize notes into the 1-page Engagement Charter.
 Use the templates/samples (links have been provided at the bottom of this page) as a guide, but tailor for the client.
 Remember: multiple questions may contribute to a single charter field. Asking from different angles helps uncover the real answers.
 Using GenAI to synthesize outputs is recommended, however only use approved tools and protect client IP.
 
 # Facilitation tips
+
 Let conversation flow: capture insights where they fit best.
 Keep the group small: builds trust and faster outcomes.
 Always capture live on a shared board/document for transparency.

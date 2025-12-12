@@ -9,20 +9,25 @@ Architecture context provides the foundation for making informed decisions, iden
 Whilst gathering architecture context, it is important to wear a business hat as well as a technical hat and ensure you understand the architecture within the relevant business/domain context. This includes understanding how regulatory policies or internal policies impact the architecture too.  
 
 ## Use this play to:
+
 Identify and understand the current technical architecture 
 Provide a quick assessment of architectural complexity
 Understand how the technical architecture supports core business functions
 
 ## Expert tip
+
 Beyond simply diving into the technical architecture, understanding how the architecture supports core business functions is essential. To do this, follow the money. Engage with business stakeholders to follow the financial flow to see how technology directly impacts revenue generation, cost reduction, or other key metrics. 
 
 ## Time required
+
 1 - 5 days
 
 ## Who participates
+
 Architects, project team
 
 ## How often
+
 Once-off / as needed
 
 ## Running the play
